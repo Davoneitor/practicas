@@ -1,0 +1,10 @@
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px; /* Ajusta el margen inferior según necesites */
+}
+.column {
+    flex: 1;
+    margin-right: 10px; /* Espacio entre columnas */
+}
